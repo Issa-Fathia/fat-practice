@@ -1,4 +1,4 @@
-# Fathis Ia A tiny Lady
+# Fathis is a Tall Lady
 
 ## Project Overview
 This project analyzes supermarket sales data to extract meaningful insights into customer purchasing patterns, sales trends, and product performance. The analysis was conducted using Excel, leveraging its powerful data processing and visualization capabilities to deliver comprehensive insights.
@@ -62,3 +62,16 @@ Visualizations
 The project includes a range of visualizations, such as bar charts, line graphs, and pie charts, to effectively communicate the findings. Screenshots of the KPIs and charts can be accessed here. These visualizations offer a comprehensive view of the sales patterns and customer behaviors.
 
 Here's the screenshot of the full dashboard
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/91c01b94-9a01-4e8e-b6c4-2e13d5f53838" />
+
+
+
+Screenshot of Fathia
+<img width="1907" height="906" alt="Image" src="https://github.com/user-attachments/assets/9dafe01f-80ab-4aa7-98ea-a0fae84c90bc" />
+
+Screenshot of Fathia 2
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/14e0c77b-6e56-40a0-8c1f-beef52d73724" />
+
+
